@@ -1,0 +1,6 @@
+*.xcworkspace
+xcov_output/
+Pods/
+secrets-vars.sh
+*.generated.swift
+*.DS_Store
